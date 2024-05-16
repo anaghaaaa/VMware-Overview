@@ -31,8 +31,21 @@ link to video referred - https://www.youtube.com/watch?v=FrAjyCdsyhM
   
 # overview on vSphere and vRealize
 
+* vSphere is VMware’s virtualization platform.
+* It transforms data centers into aggregated computing infrastructures that include CPU, storage, and networking resources.
+* vSphere manages these infrastructures as a unified operating environment and provides tools to administer the data centers.
+* The two core components of vSphere are ESXi and vCenter Server.ESXi is the virtualization platform where you create and run virtual machines.vCenter Server is the service through which you manage multiple hosts connected in a network and pool host resources.
+
+* vRealize Suite is a comprehensive cloud management platform that delivers and manages IT services across private, public, and hybrid clouds.
+*  products include vRealize Operations Manager, vRealize Business for Cloud, and vRealize Automation.
+*  usecases -
+1.  Proactively solving performance issues: It helps identify and resolve performance issues before they impact services.
+2. Continuously monitoring and managing capacity: It provides insights into capacity usage and trends to help plan for future needs.
+3. Streamlining processes: It streamlines processes with customizable policies, guided remediation, and automated enforcement of standards.
+4. Understanding cost and consumption: It provides visibility into the cost and consumption of private and public cloud services
 
 # intro to vRealize Automation
+
 
 
 
