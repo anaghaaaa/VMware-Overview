@@ -49,6 +49,7 @@ link to video referred - https://www.youtube.com/watch?v=FrAjyCdsyhM
 link to playlist referred - https://www.youtube.com/watch?v=K6efEhghKRE&list=PL2OPLXNfWYm_A0FEvlCpG3Iw5ev2ajs6p&index=1
 
 Introduction to VRA
+
 * vRealize is a cloud management platform. An enterprise could have multiple VMs hosted on different cloud platforms offered by different vendors. Inorder to manage these VMs originally we would have to use their dedicated portal. Managing all in a single platform instead - brings us to vRealize.
 * multivendor and multiplatform support
 * unified cloud management
@@ -56,11 +57,10 @@ Introduction to VRA
 * acceralated service delivery
 
 Architecture and Components
+
 * two components -
-* vRealize Automation Appliance Components -> linux
-* IaaS components -> windows server
-* 
-* 
+1. vRealize Automation Appliance Components -> linux
+2. IaaS components -> windows server
 
 
 
