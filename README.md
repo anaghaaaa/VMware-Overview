@@ -21,6 +21,17 @@ link to video referred - https://www.youtube.com/watch?v=FrAjyCdsyhM
 * can access vCenter server using vSphere Client.  
 * VMware vSphere is a virtualization platform. consists of a family of different software and management tools.
 
+# Templates
+
+* written in YAML
+* infrastructure as code (IaC)
+* blueprint for previous versions
+* drag and drop design canvas for easy design and deployment
+* can include user inputs that allow users to choose from various options at deployment time. For example, a blueprint could allow a user to choose the operating system, disk size, or the cloud endpoint where the resource should be deployed.
+  
+# overview on vSphere and vRealize
+
+
 # intro to vRealize Automation
 
 
